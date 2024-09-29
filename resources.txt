@@ -1,0 +1,6 @@
+LLMs (agent)
+- https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/
+- https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/
+
+RAG
+- https://github.com/langchain-ai/langchain/tree/master/cookbook
